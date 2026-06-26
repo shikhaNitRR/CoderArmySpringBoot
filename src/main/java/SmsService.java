@@ -1,5 +1,5 @@
 public class SmsService {
     public void sendSMSNotification() {
-        System.out.println(" SMS Sent ");
+        System.out.println(" SMS Sent To The Customer");
     }
 }
